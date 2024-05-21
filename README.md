@@ -1,4 +1,5 @@
-BookBot 📚🤖
+**BookBot 📚🤖**
+
 BookBot is an innovative AI-driven application that enhances user interaction with books by providing detailed insights, summaries, and responses based on text analysis. It leverages advanced AI models from OpenAI, including GPT-3.5 Turbo for conversational responses and Pinecone for retrieving book information and recommendations.
 
 How It Works
